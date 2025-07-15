@@ -1,1 +1,2 @@
-
+# Start command for Railway
+# web: python app.py
